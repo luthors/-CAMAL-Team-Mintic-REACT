@@ -1,50 +1,91 @@
-# xelda
-
-<h2><samp>💻 Hola somos el equipo ReacTeam. </samp><img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<p></p>
-
-<h3> <samp>🛠 Tecnologías en las que estamos trabajando</samp><h3>
-<p>
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-<p>
-  
-<h2><samp>👨🏻‍💻 Sobre Nosotros</samp></h2>
-  
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class innovacion:
-
-    def __init__(self):
-        self.team_name = "ReacTeam"
-        self.roles = ["Analista", "Product Owner", "Scrum Master", "Desarroladores", "Admon BD"]
-        self.project_name = "Xelda"
-        self.tecnologies = ["React", "nodejs", "html5", "css", "express", "mongoDB", "y más"]
-        self.team = ["Gustavo de Armas", "Andrés Pérez"]
-
-    def descripcion_del_proyecto(self):
-        print("Crearemos una app web para la industria manufacturera que \n
-              controle las ventas de las empresas, nomina, inventarios entre otros.")
-  
-    def descripcion_integrantes(self, team, mensaje):
-        print("memsaje")
+# BIENVENIDOS AL REPO DE CAMAL-DEV 🆒
 
 
-xelda = innovacion()
-xelda.descripcion_del_proyecto()
+------------
 
-```
-Gustavo de Armas: "Estudié Economía y Finanzas en la Universidad de La Sabana, complementando mis estudios profesionales con un curso de Python en la Universidad Austral de Argentina. Poseo conocimiento en Diseño Gráfico, Desarrollo Web con Django, adicionalmente soy desarrollador de soluciones con Filemaker, actualmente conocido como Claris."
-  
-Andrés Pérez: "Soy técnico de sistemas y lenguas modernas, soy una persona en constante búsqueda de conocimiento, me encanta aprender cosas nuevas todos los días y soy apasionado por la tecnología y el desarrollo, tengo una certificación en desarrollo de vídeo juegos con Unity a nivel intermedio y actualmente me encuentro cursando la ingeniería de sistemas, tengo esposa y dos hijos y son la razón principal para salir adelante y buscar una mejor calidad de vida."
+
+![2021-09-20_00h01_58](https://user-images.githubusercontent.com/85536600/133959862-08b28d0e-ca0a-4d4e-bec5-cd6af4f1a534.png)
+
+
+------------
+
+
+> Somos una **StartUp** especialista en** Desarrollo de Sotware**, **de alta calidad** y de **alto formato**.
+
+
+
+
+------------
+
+
+------------
+
+
+### TEAM
+
+**Marena**...  👩‍
+Mi nombre es Marena Molano Mendoza
+Tengo 28 años 
+Me gusta salir, comer helados y ver pelis
+
+------------
+
+
+**Alex**... 🧑‍
+Soy Alexander Bustos Betancur, puden llamarme Alex
+Tengo 21 años
+Vivo en Medellín, amo los idiomas
+Actualmente estudio ingeniería física.
+
+------------
+
+
+**Andrea**...  🙋‍
+Mi nombre es Andrea Camila Jaimes Campo 
+Tengo 24 años, soy ingeniera quimica
+Vivo ehn Santa Marta
+
+------------
+
+
+**Camilo**... 🕺
+Mi nombre es Andrés Camilo Campuzano Osorio
+Tengo 29 años
+Vivo en Cartago, Valle del Cauca
+
+------------
+
+
+**Luis**... 🌵
+Soy Luis Toro
+Apasionado por la programación y amante de las Tech and Gadgets
+Tengo 42 Años
+Vivo en Rinegro Antioquia
+
+------------
+
+
+------------
+
+
+
+##### #### #### # **En esta ocación estamos presentando nuetro nuevo producto** 
+
+# **CAMAL-Team-Mintic** 💻
+> Se propone analizar, diseñar y construir una aplicación software que permita controlar las ventas físicas y virtuales de una empresa de manufactura y hacerles el correspondiente seguimiento.
+
+------------
+
+
+### Alcance de la Aplicación WEB
+ Módulo administrador de ventas. Permite ingresar o registrar los pedidos realizados por cada uno de los clientes. Deberá tener un identificador único de venta, almacenar el valor total de la venta y la descripción detallada de la misma y tener una fecha inicial y una fecha futura de pago. Además, deberá contar con un encargado de gestionar dicha venta (responsable).
+
+● Módulo para registrar el estado de la venta. Permite establecer los diferentes estados de la venta a lo largo del ciclo de vida de la línea de producción (creación, embalaje, despacho, ruta, ubicación, recepción).  
+
+● Gestión de vendedores. Permite ingresar la información básica de los vendedores que participan en un negocio de ventas. La información a registrar sería el identificador único del vendedor, el nombre, la especialidad, el número de celular y la fecha de ingreso.
+
+● Gestión de ingreso al sistema de información. El sistema contendrá una pantalla de ingreso con login y password.
+
+Este módulo hará la integración de los demás módulos del sistema para garantizar que los roles de los usuarios se ajusten a las distintas opciones de cada menú o formulario. Se contempla la identificación y el desarrollo de los casos de uso relacionados con la seguridad, así como el análisis de requisitos y el diseño del módulo.
+
+● Gestión de usuarios y roles. Deberá contener un identificador único del usuario, el nombre y el rol en el sistema de información (vendedor, administrador, ejecutivo, operario, director, gerente comercial) con el fin de restringir/otorgar accesos al sistema de información.
